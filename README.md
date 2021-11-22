@@ -1,4 +1,4 @@
-# IranNatures Website - html, css, sass
+# IranNatures Website - html, css, scss
 Creating a fully responsive website with the theme of Iran nature tours
 
 ## Table of contents
