@@ -15,8 +15,8 @@ Creating a fully responsive website with the theme of Iran nature tours
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/FAQ-Card/)
-- Live Site URL: [Netlify](https://frontendparham.github.io/FAQ-Card/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Iran-Natures/)
+- Live Site URL: [Netlify](https://iran-natures.netlify.app/)
 
 ## My process
 
