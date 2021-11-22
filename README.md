@@ -13,10 +13,6 @@ Creating a fully responsive website with the theme of Iran nature tours
 
 ## Overview
 
-### Screenshot
-
-![](./screenshot.pdf)
-
 ### Links
 
 - Live Site URL: [GitHub Pages](https://frontendparham.github.io/FAQ-Card/)
@@ -49,3 +45,7 @@ npm run start
 # Build CSS and assets
 npm run build:css
 ```
+
+## Screenshot
+
+![](./screenshot.png)
