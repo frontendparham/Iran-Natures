@@ -3,19 +3,19 @@ Creating a fully responsive website with the theme of Iran nature tours
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 - [Usage](#usage)
-- [Overview](#overview)
-  - [Links](#links)
-  - [Screenshot](#screenshot)
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.pdf)
 
 ### Links
 
